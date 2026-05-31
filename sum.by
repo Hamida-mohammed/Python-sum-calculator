@@ -1,1 +1,5 @@
 
+num1 = float(input("دخل الرقم الاول: "))
+num2 = float(input("دخل الرقم الثاني: "))
+sum = num1 + num2
+print("المجموع هو:", sum)
